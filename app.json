@@ -1,7 +1,7 @@
 {
-  "name": "Alloy",
-  "description": "A Titanium Network web proxy.",
-  "repository": "https://github.com/titaniumnetwork-dev/alloy/",
+  "name": "TN-Prox",
+  "description": "Proxy by TN",
+  "repository": "https://github.com/tamoghnak13/alloy-new",
   "logo": "https://avatars.githubusercontent.com/u/47227492?s=200&v=4",
-  "keywords": ["alloy", "proxy", "web-unblocker", "internet", "alloyproxy"]
+  "keywords": ["go", "unblock", "tn", "internet""]
 }
